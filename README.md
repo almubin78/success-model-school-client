@@ -19,7 +19,11 @@ module.exports = {
   plugins: [require("daisyui")],
 }
 ```
-# firebase console create
+# firebase console create -`done`
+# Upcoming feature......
 
 # firebase deploy
+
+# Faced Problems:
+* tailwind `hidden lg:flex` for carousel
 
