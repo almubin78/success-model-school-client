@@ -29,7 +29,7 @@ const Menu = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn">Admission</a>
+                <a href='/admission' className="btn">Admission</a>
             </div>
         </div>
     );
